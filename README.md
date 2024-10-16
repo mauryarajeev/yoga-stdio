@@ -1,5 +1,6 @@
 # Yoga Classes
-([https://yoga-rjx5.onrender.com/)
+## deployed link
+(https://yoga-rjx5.onrender.com/)
 ## About the App
 * Frontend : ReactJS
 * Backend : Express, NodeJS
